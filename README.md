@@ -36,6 +36,6 @@ Phía  Backend:     -> npm start
 ```
 
 ## 🌍 Link Demo
-👉  <a href="ecommerce-mern-stack-iota.vercel.app">Xem demo tại đây nhé </a>
+👉 <a href="https://ecommerce-mern-stack-iota.vercel.app" target="_blank">Xem demo tại đây nhé</a>
 
 
