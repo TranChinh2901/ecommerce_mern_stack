@@ -11,13 +11,13 @@
 
 ## 🚀 Tính năng chính  
 
-🛒 Tìm kiếm và lọc sản phẩm
+👀 Hiển thị sản phẩm
 
-💳 Giỏ hàng và thanh toán
+🔍 Tìm kiếm và lọc sản phẩm
+
+🛒 Giỏ hàng và thanh toán
 
 📦 Quản lý sản phẩm
-
-📜 Quản lý đơn hàng
 
 ⭐ Quản lý đánh giá và bình luận
 
